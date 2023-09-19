@@ -10,6 +10,12 @@
 * Pionera en la optimización de los compiladores (los programas encargados de traducir el código en ceros y unos para que la máquina lo entienda)
 * La primera mujer ganadora del Premio Turing, el Nobel de la Informática, en 2006
 
-![This is an alt text.](sample.png "This is a sample image.")
+![This is an alt text.](Frances_Elizabeth_Allen.jpg "This is a sample image.")
 
+## Aportaciones
+| Left columns  |  Right columns |
+| ------------- | :-------------:|
+| left foo      |  right foo     |
+| left bar      |  right bar     |
+| left baz      |  right baz     |
 
