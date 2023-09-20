@@ -30,4 +30,8 @@ Porque Allen, nacida en Peru, en el estado de Nueva York en 1932 en una familia 
 
 ## Fuentes
 Uniersidad de Jaén  [UJA](https://pionerasinformaticas.ujaen.es/es/pioneras-informaticas/frances-elizabeth-allen-es/).
-[![TURING AWARDS](https://www.youtube.com/watch?v=o5O1DkqsTCg) 
+
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=o5O1DkqsTCg
+" target="_blank"><img src="http://img.youtube.com/vi/o5O1DkqsTCgE/0.jpg" 
+alt="TURING AWARDS VIDEO" width="240" height="180" border="10" /></a>
