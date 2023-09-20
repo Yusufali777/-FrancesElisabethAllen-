@@ -9,6 +9,7 @@ Porque Allen, nacida en Peru, en el estado de Nueva York en 1932 en una familia 
 * Profesora de universidad
 * Ingeniera
 ## Logros
+Informática estadounidense, trabajó como investigadora en IBM. Pionera en la optimización de los compiladores (los programas encargados de traducir el código en ceros y unos para que la máquina lo entienda). La primera mujer ganadora del Premio Turing, el Nobel de la Informática, en 2006, por sus contribuciones en compiladores, optimización de código y computación paralela.
 * Pionera en la optimización de los compiladores (los programas encargados de traducir el código en ceros y unos para que la máquina lo entienda)
 * La primera mujer ganadora del Premio Turing, el Nobel de la Informática, en 2006
 
